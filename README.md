@@ -1,7 +1,7 @@
 ﻿# Birds_Eye_View
 
 ## Examples of Output
-![alt text](https://github.com/TejasKalsait/Birds_Eye_View/blob/main/bird_eye_sample.png?raw=true)
+![alt text](https://github.com/TejasKalsait/Birds_Eye_View/blob/main/images/bird_eye_sample.png?raw=true)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -36,7 +36,13 @@ This project was executed by a team of 4 dedicated individuals, each contributin
 4. Samarth Gangwal - samarthg@buffalo.edu
 
 ## Network Architecture
+#### 1) Bird's Eye View
+![alt text](https://github.com/TejasKalsait/Birds_Eye_View/blob/main/images/model_part1.png?raw=true)
+#### 1) Blind Spot Detection for Lane Change
+![alt text](https://github.com/TejasKalsait/Birds_Eye_View/blob/main/images/model_part2.png?raw=true)
 
+## Result
+![alt text](https://github.com/TejasKalsait/Birds_Eye_View/blob/main/images/result_graph.png?raw=true)
 
 ## Generated Outputs
 The generated Bird's Eye View outputs from our trained model are available in the 'predictions' directory. These output images showcase the transformation of the original camera-captured images into top-down views. The generated outputs demonstrate the effectiveness of our deep learning approach in creating Bird's Eye View representations.

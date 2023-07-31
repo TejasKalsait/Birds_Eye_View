@@ -24,6 +24,7 @@ Welcome to the Bird'sEye View Project using Deep Learning and the CamBeV dataset
 
 ## Project Description
 The Bird'sEye View Project utilizes deep learning techniques to transform images captured by a vehicle-mounted camera into a top-down perspective. The generated Bird's Eye View output enhances the understanding of the vehicle's surroundings and aids in making better decisions during driving.
+**The model learns the spacial features and transforms the image into a different plane by learning a Homography Matrix.**
 
 ## Dataset
 The CamBeV dataset is a collection of images captured by a vehicle-mounted camera. It serves as the primary dataset for training our deep learning model. The dataset contains various scenes and scenarios, including urban environments, highways, and rural areas. By using CamBeV, our model can learn to generalize well across different driving conditions.
